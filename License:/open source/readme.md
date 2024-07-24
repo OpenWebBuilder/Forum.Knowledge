@@ -2,7 +2,7 @@ sch: https://www.google.com/search?q=open+source+forum+software
 
 # List:
 - https://opensourcelist.github.io/products/forum.html
-
+- https://en.wikipedia.org/wiki/Comparison_of_Internet_forum_software
 
 # index:
 - https://www.phpbb.com/
