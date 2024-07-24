@@ -4,6 +4,7 @@ sch: https://www.google.com/search?q=open+source+forum+software
 sch: https://www.google.com/search?q=most+popular+forum+software
 
 # List:
+- https://itsfoss.com/open-source-forum-software/
 - https://opensourcelist.github.io/products/forum.html
 
 # Comparison:
