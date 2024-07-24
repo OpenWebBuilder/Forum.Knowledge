@@ -1,5 +1,8 @@
 sch: https://www.google.com/search?q=open+source+forum+software
 
+# Ranking:
+sch: https://www.google.com/search?q=most+popular+forum+software
+
 # List:
 - https://opensourcelist.github.io/products/forum.html
 
