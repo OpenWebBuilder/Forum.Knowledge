@@ -5,7 +5,9 @@ sch: https://www.google.com/search?q=most+popular+forum+software
 
 |Home|About|Install Statistics|
 |-|-|-|
-|https://vanilla.higherlogic.com/|[wiki](https://en.wikipedia.org/wiki/Vanilla_Forums)|[trends.builtwith](https://trends.builtwith.com/cms/Vanilla-Forums)|
+|[https://vanilla.higherlogic.com/](vanilla.higherlogic.com)|[wiki](https://en.wikipedia.org/wiki/Vanilla_Forums)|[trends.builtwith](https://trends.builtwith.com/cms/Vanilla-Forums)|
+|[simplemachines.org](https://www.simplemachines.org/)|[wiki](https://en.wikipedia.org/wiki/Simple_Machines_Forum)|[trends.builtwith](https://trends.builtwith.com/cms/SMF)|
+||||
 
 # List:
 - https://opensourcelist.github.io/products/forum.html
