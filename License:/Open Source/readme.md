@@ -8,7 +8,8 @@ sch: https://www.google.com/search?q=most+popular+forum+software
 |[https://vanilla.higherlogic.com/](vanilla.higherlogic.com)|[wiki](https://en.wikipedia.org/wiki/Vanilla_Forums)|[trends.builtwith](https://trends.builtwith.com/cms/Vanilla-Forums)|
 |[simplemachines.org](https://www.simplemachines.org/)|[wiki](https://en.wikipedia.org/wiki/Simple_Machines_Forum)|[trends.builtwith](https://trends.builtwith.com/cms/SMF)|
 |[phpbb.com](https://www.phpbb.com/)|[wiki](https://en.wikipedia.org/wiki/PhpBB)|[trends.builtwith](https://trends.builtwith.com/cms/phpBB)|
-
+|[flarum.org](https://flarum.org/)|[wiki](https://en.wikipedia.org/wiki/Flarum)|[trends.builtwith](https://trends.builtwith.com/cms/Flarum)|
+|[]()|[wiki]()|[trends.builtwith]()|
 
 |[]()|[wiki]()|[trends.builtwith]()|
 
