@@ -9,7 +9,8 @@ sch: https://www.google.com/search?q=most+popular+forum+software
 |[simplemachines.org](https://www.simplemachines.org/)|[wiki](https://en.wikipedia.org/wiki/Simple_Machines_Forum)|[trends.builtwith](https://trends.builtwith.com/cms/SMF)|
 |[phpbb.com](https://www.phpbb.com/)|[wiki](https://en.wikipedia.org/wiki/PhpBB)|[trends.builtwith](https://trends.builtwith.com/cms/phpBB)|
 |[flarum.org](https://flarum.org/)|[wiki](https://en.wikipedia.org/wiki/Flarum)|[trends.builtwith](https://trends.builtwith.com/cms/Flarum)|
-|[]()|[wiki]()|[trends.builtwith]()|
+|[joinmastodon.org](https://joinmastodon.org/)|[wiki](https://en.wikipedia.org/wiki/Mastodon_(social_network))|[trends.builtwith](https://trends.builtwith.com/cms/Mastodon)|
+|[misskey-hub.net](https://misskey-hub.net/en/)|[wiki](https://en.wikipedia.org/wiki/Misskey)|[trends.builtwith](https://trends.builtwith.com/cms/Misskey)|
 
 |[]()|[wiki]()|[trends.builtwith]()|
 
